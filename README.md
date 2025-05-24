@@ -1,6 +1,6 @@
 # AIRL-MFDD_DN_May2025
 ## About
-
+This is reseach work based on Machinary Fault detection.
 ## Requirements
 
 - Python >= 3.8
