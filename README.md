@@ -5,7 +5,9 @@
 
 - Python >= 3.8
 - pip >= 20.0
-
+```
+pip install -r requirements.txt
+```
 ## Installation
 
 1. Clone this repository:
