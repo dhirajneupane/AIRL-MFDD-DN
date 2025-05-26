@@ -1,4 +1,4 @@
-# AIRL-MFDD_DN_May2025
+# AIRL-MFDD-DN
 ## About
 This is reseach work based on Machinary Fault detection.
 ## Requirements
