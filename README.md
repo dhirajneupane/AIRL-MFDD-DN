@@ -5,6 +5,10 @@ This is reseach work based on Machinary Fault detection.
 
 - Python >= 3.8
 - pip >= 20.0
+- NumPy 2.0.2
+- PyTorch 2.5.1,
+- Matplotlib 3.9.4
+- SciPy 1.13.
 ```
 pip install -r requirements.txt
 ```
